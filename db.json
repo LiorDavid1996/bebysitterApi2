@@ -117,12 +117,11 @@
           "instergram":"",
           "description":"A student at De Shalit High School has been working in the above field for two years",
           "Recommend":[
-            {    
+            { 
                 "id":1,
                 "name":"or",
                 "description":"class teacher",
-                "Contact":"orgg@gmail.com"
-            },
+                "Contact":"orgg@gmail.com"},
             {
                 "name":"bar",
                 "description":"Mom was served",
@@ -132,10 +131,7 @@
                 "name":"natasha",
                 "description":"Mom was served",
                 "Contact":"076363233"
-    
             }
-        
-    
            ],
        "star":5,
        "bs":true
@@ -238,139 +234,5 @@
            ],
        "star":5,
        "bs":true
-       },
-       {
-           "id":8,
-          "name":"yael",
-          "lastName":"pinhasov",
-          "phone":"05245673",
-          "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8N-XUFqcs36ouzjBZyWwVXL7cQ8cDFLafVw&usqp=CAU",
-          "facebook":"https://www.facebook.com/profile.php?id=100047060088971",
-          "instergram":"",
-          "description":"A student at De Shalit High School has been working in the above field for two years",
-          "Recommend":[
-            {    
-                "id":1,
-                "name":"or",
-                "description":"class teacher",
-                "Contact":"orgg@gmail.com"
-            },
-            {
-                "name":"bar",
-                "description":"Mom was served",
-                "Contact":"03525223"
-            },
-            {
-                "name":"natasha",
-                "description":"Mom was served",
-                "Contact":"076363233"
-    
-            }
-        
-    
-           ],
-       "star":5,
-       "bs":true
-       },
-       {
-           "id":9,
-          "name":"liron",
-          "lastName":"mordhciav",
-          "phone":"05245673",
-          "photo":"https://cdn.lifehack.org/wp-content/uploads/2015/03/beautiful-woman-smiling.jpg",
-          "facebook":"https://www.facebook.com/profile.php?id=100047060088971",
-          "instergram":"",
-          "description":"A student at De Shalit High School has been working in the above field for two years",
-          "Recommend":[
-            {    
-                "id":1,
-                "name":"or",
-                "description":"class teacher",
-                "Contact":"orgg@gmail.com"
-            },
-            {
-                "name":"bar",
-                "description":"Mom was served",
-                "Contact":"03525223"
-            },
-            {
-                "name":"natasha",
-                "description":"Mom was served",
-                "Contact":"076363233"
-    
-            }
-        
-    
-           ],
-       "star":5,
-       "bs":true
-       },
-       
-       {
-           "id":10,
-          "name":"gila",
-          "lastName":"cohen",
-          "phone":"05245673",
-          "photo":"https://ichef.bbci.co.uk/news/300/cpsprodpb/4A81/production/_115337091_christina_adane_copy.jpg",
-          "facebook":"https://www.facebook.com/profile.php?id=100047060088971",
-          "instergram":"",
-          "description":"A student at De Shalit High School has been working in the above field for two years",
-          "Recommend":[
-            {    
-                "id":1,
-                "name":"or",
-                "description":"class teacher",
-                "Contact":"orgg@gmail.com"
-            },
-            {
-                "name":"bar",
-                "description":"Mom was served",
-                "Contact":"03525223"
-            },
-            {
-                "name":"natasha",
-                "description":"Mom was served",
-                "Contact":"076363233"
-    
-            }
-        
-    
-           ],
-       "star":5,
-       "bs":true
-       },
-       {
-           "id":11,
-          "name":"hila",
-          "lastName":"yaron",
-          "phone":"05245673",
-          "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyaJn-jhOoRj3hzf1wXklJgFLPlvc3K8T8Lw&usqp=CAU",
-          "facebook":"https://www.facebook.com/profile.php?id=100047060088971",
-          "instergram":"",
-          "description":"A student at De Shalit High School has been working in the above field for two years",
-          "Recommend":[
-            {    
-                "id":1,
-                "name":"or",
-                "description":"class teacher",
-                "Contact":"orgg@gmail.com"
-            },
-            {
-                "name":"bar",
-                "description":"Mom was served",
-                "Contact":"03525223"
-            },
-            {
-                "name":"natasha",
-                "description":"Mom was served",
-                "Contact":"076363233"
-    
-            }
-        
-    
-           ],
-       "star":5,
-       "bs":true
-       }
-   ]
-   }
+       }]}
+ 
